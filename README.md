@@ -34,5 +34,3 @@
 
 15. What is the difference between `@staticmethod`, `@classmethod`, and
     instance methods?
-
-```
