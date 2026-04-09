@@ -35,6 +35,7 @@
 15. What is the difference between `@staticmethod`, `@classmethod`, and
     instance methods?
 
-## Frontend
 
-1.If a CORS error appears in the browser, but you’re confident that the backend is correctly configured to handle CORS, how would you debug and identify the root cause?
+## 🎨 Frontend (React / Next)
+
+1. If a CORS error appears in the browser, but you’re confident that the backend is correctly configured to handle CORS, how would you debug and identify the root cause?
