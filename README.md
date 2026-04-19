@@ -39,3 +39,6 @@
 ## 🎨 Frontend (React / Next)
 
 1. If a CORS error appears in the browser, but you’re confident that the backend is correctly configured to handle CORS, how would you debug and identify the root cause?
+
+## SQL
+1. What Differ between HAVING and WHERE
