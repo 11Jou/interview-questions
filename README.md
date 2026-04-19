@@ -42,3 +42,5 @@
 
 ## SQL
 1. What Differ between HAVING and WHERE
+
+2. What is the arrange of statment in sql
