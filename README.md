@@ -42,7 +42,7 @@
 
 2. If you have a large file that needs to be uploaded, how do you handle that?
 
-## SQL
+## ⛃ SQL
 1. What Differ between HAVING and WHERE
 
 2. What is the arrange of statment in sql
