@@ -52,3 +52,5 @@
 4. Why must add alias in the subquery?
 
 5. When to use CASE?
+
+6. What differ between COALESCE and IFNULL
