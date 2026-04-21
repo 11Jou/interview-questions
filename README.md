@@ -49,4 +49,6 @@
 
 3. What differ between Left, Right, Inner, Outer Join
 
-4. Why must add alias in the subquery ?
+4. Why must add alias in the subquery?
+
+5. When to use CASE?
