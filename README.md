@@ -47,10 +47,12 @@
 
 2. What is the arrange of statment in sql
 
-3. What differ between Left, Right, Inner, Outer Join
+3. What differ between Left, Right, Inner, Outer Join?
 
 4. Why must add alias in the subquery?
 
 5. When to use CASE?
 
-6. What differ between COALESCE and IFNULL
+6. What differ between COALESCE and IFNULL?
+
+7. What differ between like '% string%' , '%string%' and 'string%' in SQL string filter?
