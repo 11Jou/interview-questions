@@ -42,6 +42,8 @@
 
 2. If you have a large file that needs to be uploaded, how do you handle that?
 
+3. How to use URL Parameters as state management in react
+
 ## ⛃ SQL
 1. What Differ between HAVING and WHERE
 
