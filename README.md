@@ -31,6 +31,7 @@
 1. If a CORS error appears in the browser, but you’re confident that the backend is correctly configured to handle CORS, how would you debug and identify the root cause?
 2. If you have a large file that needs to be uploaded, how do you handle that?
 3. How to use URL Parameters as state management in react
+4. How RTK handle caching in?
 
 ## ⛃ SQL
 1. What Differ between HAVING and WHERE
@@ -40,4 +41,3 @@
 5. When to use CASE?
 6. What differ between COALESCE and IFNULL?
 7. What differ between like '% string%' , '%string%' and 'string%' in SQL string filter?
-8. How RTK handle caching in?
