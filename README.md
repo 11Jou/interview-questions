@@ -40,3 +40,4 @@
 5. When to use CASE?
 6. What differ between COALESCE and IFNULL?
 7. What differ between like '% string%' , '%string%' and 'string%' in SQL string filter?
+8. How RTK handle caching in?
