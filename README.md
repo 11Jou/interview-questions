@@ -4,24 +4,25 @@
 
 1.  What is the difference between `list`, `tuple`, and `set`
     internally?
+2. Why the Avg Big O notation in set is O(1) in search?
 3. How list is stored in memory?
 4. What is PEP in python?
-5.  Explain mutable vs immutable objects with real examples.
-6.  What happens in memory when you do:
+5. Explain mutable vs immutable objects with real examples.
+6. What happens in memory when you do:
 
     ``` python
     a = [1, 2, 3]
     b = a
     b.append(4)
     ```
-7.  What is the difference between `deepcopy` and `shallow copy`?
-8.  What is the difference between `is` and `==`?
-9.  What is List Comprehension
-10.  How does Python manage memory? What is reference counting?
-11.  What is garbage collection in Python?
-12.  What are generators? Why are they memory efficient?
-13.  What is decorators in python?
-14.  What is the difference between `yield` and `return`?
+7. What is the difference between `deepcopy` and `shallow copy`?
+8. What is the difference between `is` and `==`?
+9. What is List Comprehension
+10. How does Python manage memory? What is reference counting?
+11. What is garbage collection in Python?
+12. What are generators? Why are they memory efficient?
+13. What is decorators in python?
+14. What is the difference between `yield` and `return`?
 15. What is the difference between `@staticmethod`, `@classmethod`, and
     instance methods?
 
